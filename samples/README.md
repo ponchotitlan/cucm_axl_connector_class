@@ -32,4 +32,4 @@ This repository will be continuously updated with more examples for covering the
 
 For more information about the latest AXL schema, visit [this page](https://developer.cisco.com/docs/axl-schema-reference/).
 
-Crafted with :heart: by [Alfonso Sandoval - Ponchotitlán](https://www.linkedin.com/in/asandovalros)
+Crafted with :heart: by [Alfonso Sandoval - Ponchotitlán](https://linkedin.com/in/asandovalros)
