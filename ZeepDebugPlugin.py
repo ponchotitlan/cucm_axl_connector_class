@@ -1,17 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Cisco Systems Inc.
-
 Zeep Debug Plugin
 This class enables a Zeep object to output logs containing the received and sent SOAP requests
 
-This script is propierty of Cisco Systems. The license for usage is
-valid only during the period stablished in the contract between Cisco Systems
-and HCA. Removing the author and/or copyright information from the script
-is a violation to the license agreement. Any derivative work from this script is
-considered a violation to the license agreement.
-
-@author: Alfonso Sandoval Rosas (alfsando@cisco.com)
+@author: Alfonso Sandoval
 """
 
 import logging
