@@ -1,4 +1,7 @@
 # CUCM AXL Connector class
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 Python connector class based on the Zeep library for CUCM deployments via AXL. This is an effort for facilitating the building of integration projects through a straightforward connector class.
 
 This repository contains the main class **CUCMConnectorAXL.py** as well as some implementation examples which will be explained later on
